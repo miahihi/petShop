@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/prj/petShop/web/view/detail.jsp</file>
+            <file>file:/D:/prj/petShop/src/java/Mail/SendMail.java</file>
+            <file>file:/D:/prj/petShop/web/adopt.html</file>
+            <file>file:/D:/prj/petShop/web/view/shop.jsp</file>
+            <file>file:/D:/prj/petShop/web/view/admin.jsp</file>
+            <file>file:/D:/prj/petShop/src/java/DAO/dao.java</file>
+            <file>file:/D:/prj/petShop/src/java/controller/AddCtgControl.java</file>
+            <file>file:/D:/prj/petShop/src/java/controller/ShopControl.java</file>
+            <file>file:/D:/prj/petShop/src/java/filter/AccountFilter.java</file>
+            <file>file:/D:/prj/petShop/web/view/head.jsp</file>
+            <file>file:/D:/prj/petShop/web/WEB-INF/web.xml</file>
+            <file>file:/D:/prj/petShop/src/java/controller/EditControl.java</file>
+            <file>file:/D:/prj/petShop/web/view/edit1.jsp</file>
+            <file>file:/D:/prj/petShop/src/java/controller/SignupControl.java</file>
+            <file>file:/D:/prj/petShop/src/java/filter/RoleFilter.java</file>
+            <file>file:/D:/prj/petShop/web/view/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
